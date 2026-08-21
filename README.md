@@ -14,7 +14,6 @@ The sample images are remote placeholder images. To use your own paintings:
 ## Free hosting
 The simplest free option is GitHub Pages:
 
-1. Create a GitHub repository named `nicholas-herrera-portfolio`.
 2. Upload `index.html`.
 3. In the repository, open Settings → Pages.
 4. Select the `main` branch and root folder.
