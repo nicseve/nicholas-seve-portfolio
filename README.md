@@ -1,4 +1,4 @@
-# Nicholas Seve — Minimal Portfolio
+# Minimal Portfolio
 
 ## Preview locally
 Open `index.html` in a browser.
