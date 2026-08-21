@@ -1,6 +1,4 @@
-# Nicholas Herrera — Minimal Portfolio
-
-A one-page, no-build-step artist portfolio.
+# Nicholas Seve — Minimal Portfolio
 
 ## Preview locally
 Open `index.html` in a browser.
@@ -23,7 +21,6 @@ The simplest free option is GitHub Pages:
 5. GitHub will give you a free `github.io` address.
 
 ## Custom domain
-Buy `nicholasherrera.com` (or another available domain) from a registrar.
 Then add the domain under GitHub Pages → Custom domain and follow the registrar's DNS instructions.
 
 No server, database, framework, or monthly hosting bill is required.
